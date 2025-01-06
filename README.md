@@ -1,9 +1,12 @@
-<h1>Hi, I'm Abraham! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Abraham! <br/>
 
 <h2>👨‍💻 Front End Development Projects:</h2>
 
 - <b>Website landing page</b>
-  - [Praciting HTML and CSS](http://127.0.0.1:3000/11.3%20TinDog%20Project/index.html)
+  - [Creating a website landing page using HTML and CSS]()
+ 
+- <b>My Portfolio</b>
+  - [Praciting HTML and CSS]()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
