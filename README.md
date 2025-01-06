@@ -3,7 +3,7 @@
 <h2>👨‍💻 Front End Development Projects:</h2>
 
 - <b>Website landing page</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting HTML and CSS](http://127.0.0.1:3000/11.3%20TinDog%20Project/index.html)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
