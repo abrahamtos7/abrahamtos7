@@ -6,7 +6,7 @@
   - [Creating a website landing page using HTML and CSS]()
  
 - <b>My Portfolio</b>
-  - [Praciting HTML and CSS](https://github.com/abrahamtos7/ab-portfolio)
+  - [Praciting HTML and CSS](https://abrahamtos7.github.io/ab-portfolio/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
