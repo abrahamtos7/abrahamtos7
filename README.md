@@ -22,7 +22,7 @@
 [twitter]: https://x.com/fwflackoo
 [linkedin]: https://www.linkedin.com/in/abraham-arumemi-69701b342/
 
-- 🌱 I’m currently learning Javascript and Back End technologies such as Node, React, PostgreSQL, Web3 and DApps.
+- 🌱 I’m also skilled in Back End technologies such as Node, React, PostgreSQL, Web3 and DApps.
 
 -  👯 I’m looking to collaborate on projects that enable me to improve my skills in full stack(Front end and Back end developments).
 <!--
