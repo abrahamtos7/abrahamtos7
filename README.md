@@ -12,6 +12,9 @@
   - [HTML and CSS](https://abrahamtos7.github.io/updated-portfolio/)
 <h2> 🤳 Connect with me:</h2>
 
+- <b>Crypto Wallet Watcher</b>
+  - [HTML,CSS Javascript, Typescript, React.js](https://make-automation-crypto-wallet-watcher1.lovable.app/)
+
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
